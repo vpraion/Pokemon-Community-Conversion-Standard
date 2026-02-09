@@ -7,3 +7,5 @@ build/
 to_compress/
 lib/
 tools/table-generator/table-generator.exe
+.vscode/launch.json
+tools/bin2s/bin2s.exe
